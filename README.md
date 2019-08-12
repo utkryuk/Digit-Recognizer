@@ -1,5 +1,6 @@
 # Digit-Recognizer
-Dataset used : MNIST Dataset
+Dataset used : MNIST Dataset.
+The dataset can be downloaded from https://www.kaggle.com/c/digit-recognizer/data
 
 Libraries used:
 
@@ -12,3 +13,4 @@ Libraries used:
 The Kaggle competition link is: https://www.kaggle.com/c/digit-recognizer
 
 The accuracy of the model is: 99.228%
+
